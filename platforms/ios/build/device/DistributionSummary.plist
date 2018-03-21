@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ezikpro.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6284BED37A51E2D7AB8C63B0BA39EE20D0C21DA2</string>
+				<key>dateExpires</key>
+				<string>2019-02-08</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6284BED37A51E2D7AB8C63B0BA39EE20D0C21DA2</string>
+						<key>dateExpires</key>
+						<string>2019-02-08</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>NativeScript.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2778W8Z7RX</string>
+						<key>name</key>
+						<string>Boyan Chakandrakov</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6284BED37A51E2D7AB8C63B0BA39EE20D0C21DA2</string>
+						<key>dateExpires</key>
+						<string>2019-02-08</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>TNSWidgets.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>2778W8Z7RX</string>
+						<key>name</key>
+						<string>Boyan Chakandrakov</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>2778W8Z7RX.org.nativescript.ezikpro</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>2778W8Z7RX</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>ezikpro.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9a89081e-d3cd-462e-89b5-2ce749107a7f</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: org.nativescript.ezikpro</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>2778W8Z7RX</string>
+				<key>name</key>
+				<string>Boyan Chakandrakov</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/background.png",
+        "source": "/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/icon.png",
+        "source": "/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/logo.png",
+        "source": "/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/src/main/res/drawable-xxxhdpi/logo.png"
+    }
+]

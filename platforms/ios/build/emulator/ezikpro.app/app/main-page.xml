@@ -1,0 +1,12 @@
+<Page loaded="pageLoaded" navigatingTo="navigatingTo">
+  <ActionBar title="My App" class="action-bar"></ActionBar>
+  <!-- Your UI components go here -->
+  <StackLayout orientation="vertical">
+
+        <TextField hint="Email Address" text="{{ email }}" id="email" autocapitalizationType="none"/>
+        <TextField hint="Password" text="{{ Password }}"  id="password"/>
+
+        <Button text="Sign in" tap="signIn"/>
+
+    </StackLayout>
+</Page>

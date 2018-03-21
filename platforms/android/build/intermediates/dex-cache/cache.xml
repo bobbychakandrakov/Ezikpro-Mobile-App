@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_17971c1ff2ed6a416b3c14b0afa1cdb6d83e63f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_27f9d3d5b512d3a3d8014e017af20c0014a0a2a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_5ed4734da9214665bf3f9a77ad6dcb20552c6525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_4f13a0c8e8ade692797b605122192f92f5ddfbb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_509482936e2298cb31d74fda7d5f1b718ab4e77c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/share/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_d36b866c27d50890d3f323011f8cd39b4488b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_18e763571c98bda65567b540bcb755f069c7fba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-nativescript-optimized_1bd42db6ff1d8601ef2e451b916295fb65eaadc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_8c46b0788d15b871862ffb75e4826d460f4b7386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_1a0c307c321ae7b4f1f51d2de53d466536c8d1d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_6984395e10f31d6b27ccbeee19d7f7c851f8f753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_bd14ddc742092e42277df562b18691edd08c1a57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_47d7f5526b80adc4cb99de1ab18964db15d5ff8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_337379d921f72e6db7277b23a6f1eecd601c65f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Macbook/Desktop/atanasov-native-script/ezikpro/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_44b90c123ace01fff359d136610c26eca1b996ab.jar" />
+    </item>
+
+</items>
